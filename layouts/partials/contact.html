@@ -1,0 +1,43 @@
+{{ "<!-- CONTACT -->" | safeHTML }}
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <h3 class="section-heading">My Informatics World</h3>
+                <p>
+                    Kurzer Besschreibungstext > Ziele der Veranstaltungsreihe etc. > Worum geht es!
+                </p>
+                <p>Alle Rechte vorbehalten, 2020</p>
+            </div>
+
+            <div class="col-lg-5">
+                <h3 class="section-heading">Kontakt</h3>
+                <p>
+                    <b>My Informatics World</b><br>
+                    Limesstraße 12-14, 4060 Leonding<br>
+                    T. +1 234 567 9332<br>
+                    M. <a href="mailto:{{ .Site.Params.contact.email }}">
+                        {{ .Site.Params.contact.email }}
+                    </a>
+                </p>
+            </div>
+
+            <div class="col-lg-2">
+                <h3 class="section-heading">Quick View</h3>
+                <p>
+                    <a class="page-scroll" href="#about">{{ .Site.Params.navigation.links.about }}</a><br>
+                    <a class="page-scroll" href="#appointments">{{ .Site.Params.navigation.links.appointments }}</a><br>
+                    <a class="page-scroll" href="#partners">{{ .Site.Params.navigation.links.partners }}</a><br>
+                    <a class="page-scroll" href="#sponsors">{{ .Site.Params.navigation.links.sponsors }}</a><br>
+                    <a class="page-scroll" href="#contact">{{ .Site.Params.navigation.links.contact }}</a><br>
+                </p>
+            </div>
+
+            <!-- <div class="col-md-4 col-md-offset-2 col-sm-6 text-center">
+                <a href="https://twitter.com/{{ .Site.Params.contact.twitter }}" target="_blank"><i class="fa fa-twitter fa-3x wow bounceIn"></i>
+                    <p>@{{ .Site.Params.contact.twitter }}
+                </a></p>
+            </div> -->
+        </div>
+    </div>
+</section>
