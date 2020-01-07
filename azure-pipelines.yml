@@ -49,6 +49,10 @@ steps:
   displayName: 'Copy build results to gh-pages branch'
 
 - script: |
+    echo -e www.globalazurebootcamp.at'\n' > CNAME
+  displayName: 'Create CNAME file for GitHub Pages'
+
+- script: |
     git add --all .
     git commit -m 'Update website'
     git push origin gh-pages
