@@ -633,3 +633,39 @@ body {
     left: 0;
     display: block;
 }
+
+.appointment {
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+.appointment h3 {
+    text-transform: none;
+}
+
+.appointment > div {
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+.appointment > div.address {
+    font-size: inherit;
+}
+
+.appointment > div.address > div:first-of-type {
+    font-size: 20px;
+}
+
+.appointment > div:last-of-type {
+    background-color: #333;
+    margin: 16px -8px -8px -8px;
+    padding: 8px;
+}
+
+.appointment > div:last-of-type a {
+    color: #fff;
+    font-size: 18px;
+}
