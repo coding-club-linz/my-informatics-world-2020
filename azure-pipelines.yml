@@ -49,7 +49,7 @@ steps:
   displayName: 'Copy build results to gh-pages branch'
 
 - script: |
-    echo -e www.globalazurebootcamp.at'\n' > CNAME
+    echo -e coding-club-linz.github.io'\n' > CNAME
   displayName: 'Create CNAME file for GitHub Pages'
 
 - script: |
