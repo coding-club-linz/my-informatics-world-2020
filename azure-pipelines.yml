@@ -48,7 +48,11 @@ steps:
     targetFolder: .
     overWrite: true
   displayName: 'Copy build results to $(target_branch) branch'
-  
+
+- script: |
+    touch .nojekyll
+  displayName: 'Create .nojekyll file to disable Jekyll'
+
 - script: |
     git add --all .
     git commit -m 'Update website'
