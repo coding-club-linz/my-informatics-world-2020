@@ -5,7 +5,7 @@
             <div class="col-lg-5">
                 <h3 class="section-heading">My Informatics World</h3>
                 <p>
-                    Kurzer Besschreibungstext > Ziele der Veranstaltungsreihe etc. > Worum geht es!
+                    {{ .Site.Params.description }}
                 </p>
                 <p>Alle Rechte vorbehalten, 2020</p>
             </div>
@@ -15,7 +15,7 @@
                 <p>
                     <b>My Informatics World</b><br>
                     Limesstraße 12-14, 4060 Leonding<br>
-                    T. +1 234 567 9332<br>
+                    T. {{ .Site.Params.contact.phone }}<br>
                     M. <a href="mailto:{{ .Site.Params.contact.email }}">
                         {{ .Site.Params.contact.email }}
                     </a>

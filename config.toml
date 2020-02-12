@@ -20,7 +20,7 @@ googleAnalytics = ""
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "My Informatics World"
-	description = "Unsere Message: Informatik macht Spaß, Informatik kann Dein Leben finanzieren, Informatik ist kommunikativ, Informatik braucht kreative Menschen!"
+	description = "Informatik macht Spaß, Informatik kann Dein Leben finanzieren, Informatik ist kommunikativ, Informatik braucht kreative Menschen!"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -58,6 +58,7 @@ googleAnalytics = ""
 	[params.contact]
 		twitter = "coderdojolinz"
 		email = "info@my-informatics-world.at"
+		phone = "+43 732 673368-0"
 
 	# Google Maps section
 	[params.location]
