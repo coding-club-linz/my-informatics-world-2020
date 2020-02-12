@@ -543,20 +543,20 @@ body {
 #mce-error-response {
     margin-top: 20px;
     padding: 12px;
-    background-color: #FFC107;
-    color: #555;
+    background-color: #E03C31;
+    color: #fff;
 }
 
 #mce-success-response {
     margin-top: 20px;
     padding: 12px;
-    background-color: #CDDC39;
-    color: #555;
+    background-color: #BA4EA4;
+    color: #fff;
 }
 
 #mce-error-response a,
 #mce-success-response a {
-    color: #555;
+    color: #fff;
 }
 
 /* Sponors */

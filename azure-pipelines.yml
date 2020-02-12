@@ -52,6 +52,10 @@ steps:
 - script: |
     touch .nojekyll
   displayName: 'Create .nojekyll file to disable Jekyll'
+  
+- script: |
+    echo -e www.my-informatics-world.at'\n' > CNAME
+  displayName: 'Create CNAME file for GitHub Pages'
 
 - script: |
     git add --all .
