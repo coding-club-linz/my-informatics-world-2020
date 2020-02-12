@@ -644,6 +644,7 @@ body {
 
 .appointment h3 {
     text-transform: none;
+    height: 2em;
 }
 
 .appointment > div {
