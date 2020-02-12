@@ -19,8 +19,8 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Global Azure Bootcamp 2020 Linz"
-	description = "All around the world user groups and communities will come together from April 23 - April 25, 2020 once again in the seventh Global Azure Bootcamp event. Join us on Friday, April 24, 2020 in Linz."
+	name = "My Informatics World"
+	description = "Unsere Message: Informatik macht Spaß, Informatik kann Dein Leben finanzieren, Informatik ist kommunikativ, Informatik braucht kreative Menschen!"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -32,23 +32,23 @@ googleAnalytics = ""
 
 		[params.navigation.links]
 			about     = "Über uns"
-            appointments   = "Termine"
+      appointments   = "Termine"
 			partners   = "Projektpartner"
-            sponsors   = "Sponsoren"
+      sponsors   = "Sponsoren"
 			contact   = "Kontakt"
 
 
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Global Azure Bootcamp 2020"
+		slogan     = "My Informatics World"
 		subtitle   = "Friday, April 24, 2020 - Hollywood Megaplex Pasching"
 		buttonText = "Find out more"
 
 	# Sessions section
 	[params.sessions]
 		headline    = "Sessions"
-		
+
 		[[params.sessions.list]]
             icon = "fa-diamond"
             title = "Sturdy Templates"
@@ -57,7 +57,7 @@ googleAnalytics = ""
 	# Contact section
 	[params.contact]
 		twitter = "coderdojolinz"
-		email = "info@myinformaticsworld.org"
+		email = "info@my-informatics-world.at"
 
 	# Google Maps section
 	[params.location]
