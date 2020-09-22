@@ -32,10 +32,11 @@ googleAnalytics = ""
 
 		[params.navigation.links]
 			about     = "Über uns"
-      appointments   = "Termine"
+      		appointments   = "Termine"
 			partners   = "Projektpartner"
-      sponsors   = "Sponsoren"
+      		sponsors   = "Sponsoren"
 			contact   = "Kontakt"
+			archive = "Archiv"
 
 
 	# Hero section
