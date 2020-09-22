@@ -10,17 +10,5 @@
 	<atom:link href="https://www.my-informatics-world.at/sponsors/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>WKO</title>
-      <link>https://www.my-informatics-world.at/sponsors/wko/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.my-informatics-world.at/sponsors/wko/</guid>
-      <description>Wirtschaftskammer Österreich
-Wiedner Hauptstraße 63
-A-1045 Wien
-www.wko.at/</description>
-    </item>
-    
   </channel>
 </rss>

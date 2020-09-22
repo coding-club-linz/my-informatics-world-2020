@@ -7,6 +7,30 @@
   </url>
   
   <url>
+    <loc>https://www.my-informatics-world.at/events/coding/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.my-informatics-world.at/events/electronics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.my-informatics-world.at/events/parents_cafe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.my-informatics-world.at/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.my-informatics-world.at/events/humanoid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.my-informatics-world.at/events/mobile_computing/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.my-informatics-world.at/</loc>
   </url>
   
@@ -19,7 +43,11 @@
   </url>
   
   <url>
-    <loc>https://www.my-informatics-world.at/sponsors/wko/</loc>
+    <loc>https://www.my-informatics-world.at/templateforsponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.my-informatics-world.at/templateforsponsors/wko/</loc>
   </url>
   
 </urlset>
