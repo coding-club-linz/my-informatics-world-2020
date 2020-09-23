@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.my-informatics-world.at/events/coding/</guid>
-      <description>Der Klassiker aus dem CoderDojo. Das Format ist hier sehr offen. Neben dem typischen Einsteiger-Thema Scratch, gibt es Web-Entwicklung mit HTML, CSS, JavaScript, Node.js, und Co, Entwicklung von Minecraft Mods in Java usw. Auch hatten wir schon spontane Workshops wie Spielentwicklung in Unity oder Programmieren von Mini-Robots. Alles ist möglich, solange die Kinder und Jugendlichen Spaß daran haben.</description>
+      <description>Der Klassiker aus dem CoderDojo. Das Format ist hier sehr offen. Neben dem typischen Einsteiger-Thema Scratch, gibt es Web-Entwicklung mit HTML, CSS, JavaScript, Node.js, und Co, Entwicklung von Minecraft Mods in Java usw. Auch hatten wir schon spontane Workshops wie Spielentwicklung in Unity oder Programmieren von Mini-Robots. Alles ist möglich, solange ihr Spaß daran habt.</description>
     </item>
     
     <item>
@@ -54,6 +54,15 @@
       
       <guid>https://www.my-informatics-world.at/events/mobile_computing/</guid>
       <description>Programmieren von Handys und Tablets ist eine der vielen und auch oft benötigten Tätigkeiten eines Informatikers / einer Informatikerin. Und das Schöne ist, dass es gar nicht so schwer ist. In diesem Workshop lernst Du erste Schritte im Programmieren einer App. Wenn alles gut geht, hast Du am Schluss Deine eigene App auf Deinem Handy.</description>
+    </item>
+    
+    <item>
+      <title>Sorting is Fun</title>
+      <link>https://www.my-informatics-world.at/events/sorting_fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.my-informatics-world.at/events/sorting_fun/</guid>
+      <description>Wenn Du schon ein bisschen programmiert hast, bist Du sicherlich schon auf das Problem gestoßen, Dinge in die richtige Reihenfolge zu bringen. Seien wir ehrlich: Eine Hall of Fame macht einfach keinen Spaß, wenn der Gewinner nicht ganz oben steht. Damit das funktioniert muss man sich ein bisschen mit Sortieralgorithmen beschäftigen. Wir schlüpfen in diesem Workshop in die Rolle des Computers und spielen mehrere Möglichkeiten durch, wie er Dinge in die richtige Reihenfolge bringt.</description>
     </item>
     
     <item>
