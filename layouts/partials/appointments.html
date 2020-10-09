@@ -1,13 +1,19 @@
 {{ "<!-- ABOUT -->" | safeHTML }}
 <section id="appointments">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Digitalferien 2020</h2>
-                <p>von DI, 27. Oktober bis DO, 29. Oktober 2020</p>
-            </div>
-        </div>
         {{ with (.Site.GetPage "/events") }}
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">{{ .Params.title }}</h2>
+                    <p>{{ .Params.subtitle }}</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-left">
+                    {{ .Content }}
+                </div>
+            </div>
+
             {{ range .Pages.ByParam "order" }}
                 <div class="col-md-4 text-center">
                     <div class="digi-holiday-event">
