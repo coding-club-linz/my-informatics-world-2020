@@ -1,14 +1,15 @@
 {{ "<!-- ABOUT -->" | safeHTML }}
 <section id="sponsors">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Sponsoren</h2>
-                <p class="text-muted">Wir freuen uns über jede Unterstützung!</p>
-            </div>
-        </div>
-
         {{ with (.Site.GetPage "/sponsors") }}
+
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">{{ .Params.title }}</h2>
+                    <p class="text-muted">{{ .Params.subtitle  }}</p>
+                </div>
+            </div>
+
             {{ range .Pages.GroupByParam "priority" }}
                 <div class="row sponsors sponsor-overview equal">
                     <div class="col-sm-12 col-xs-12 text-center">
@@ -38,10 +39,9 @@
                         {{ end }}
                         <div class="col-sm-{{$cols}} col-sm-offset-0 col-xs-{{$colsXs}} col-xs-offset-{{$colsOffsetXs}} text-center">
                             <p>
-                                <!-- <a href="/sponsors#{{ .Params.title }}"><img class="prio{{.Params.priority}}"
-                                        src="/img/sponsors/{{ $logo }}" /></a> -->
-                                        <img class="prio{{.Params.priority}}"
-                                        src="/img/sponsors/{{ $logo }}" />
+                                <a href="{{ .Params.sponsorUrl }}" target="_blank">
+                                    <img class="prio{{.Params.priority}}" src="/img/sponsors/{{ $logo }}" />
+                                </a>
                             </p>
                         </div>
                     {{ end }}
