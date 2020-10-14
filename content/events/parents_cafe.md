@@ -1,6 +1,7 @@
 ---
 title: "Eltern Café"
 order: 8
+isVisible: false
 ---
 Die Informationsmöglichkeit für Eltern und Erziehungsberechtigte. Hier können Sie im entspannten Rahmen mit Verantwortlichen der besten Bildungsorganisationen im OÖ Zentralraum über die Ausbildungsmöglichkeiten im Bereich Informatik reden. Wir durften schon die interessantesten Fragen beantworten:
 - Wann kann mein Kind mit der Informatik-Ausbildung beginnen?

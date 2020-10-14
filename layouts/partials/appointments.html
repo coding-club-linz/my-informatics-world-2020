@@ -15,17 +15,23 @@
             </div>
 
             {{ range .Pages.ByParam "order" }}
-                <div class="col-md-4 text-center">
-                    <div class="digi-holiday-event">
-                        <h3>{{ .Params.title }}</h3>
-                        <div>{{ .Content }} </div>
+                {{ if .Params.isVisible }}
+                    <div class="col-md-4 text-center">
+                        <div class="digi-holiday-event">
+                            <h3>{{ .Params.title }}</h3>
+                            <div>{{ .Content }} </div>
+                        </div>
                     </div>
-                </div>
+                {{ end }}
             {{ end }}
         {{ end }}
-        Wenn wir Dein Interesse geweckt haben, dann sende uns eine e-mail an
-        <a href="mailto:{{ .Site.Params.contact.email }}?subject=Interesse%20an%20Digitalferien">
-            {{ .Site.Params.contact.email }}
-        </a>.
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-left">
+                Wenn wir Dein Interesse geweckt haben, dann sende uns eine e-mail an
+                <a href="mailto:{{ .Site.Params.contact.email }}?subject=Interesse%20an%20Digitalferien">
+                    {{ .Site.Params.contact.email }}
+                </a>.
+            </div>
+        </div>
     </div>
 </section>
