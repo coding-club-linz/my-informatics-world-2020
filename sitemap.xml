@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.my-informatics-world.at/sponsors/it_rocks/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.my-informatics-world.at/categories/</loc>
   </url>
   
@@ -48,14 +52,6 @@
   
   <url>
     <loc>https://www.my-informatics-world.at/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.my-informatics-world.at/templateforsponsors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.my-informatics-world.at/templateforsponsors/wko/</loc>
   </url>
   
 </urlset>

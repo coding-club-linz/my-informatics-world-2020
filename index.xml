@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>#it_rocks</title>
+      <link>https://www.my-informatics-world.at/sponsors/it_rocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.my-informatics-world.at/sponsors/it_rocks/</guid>
+      <description>#IT_rocks UPPER AUSTRIA
+Hafenstraße 47-51 4020 Linz
+https://www.digitalregion.at/schwerpunkte/ausbildung-qualifizierung/it-rocks/</description>
+    </item>
+    
+    <item>
       <title>Coding</title>
       <link>https://www.my-informatics-world.at/events/coding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,18 +83,6 @@
       
       <guid>https://www.my-informatics-world.at/events/sorting_fun/</guid>
       <description>Wenn Du schon ein bisschen programmiert hast, bist Du sicherlich schon auf das Problem gestoßen, Dinge in die richtige Reihenfolge zu bringen. Seien wir ehrlich: Eine Hall of Fame macht einfach keinen Spaß, wenn der Gewinner nicht ganz oben steht. Damit das funktioniert muss man sich ein bisschen mit Sortieralgorithmen beschäftigen. Wir schlüpfen in diesem Workshop in die Rolle des Computers und spielen mehrere Möglichkeiten durch, wie er Dinge in die richtige Reihenfolge bringt.</description>
-    </item>
-    
-    <item>
-      <title>WKO</title>
-      <link>https://www.my-informatics-world.at/templateforsponsors/wko/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.my-informatics-world.at/templateforsponsors/wko/</guid>
-      <description>Wirtschaftskammer Österreich
-Wiedner Hauptstraße 63
-A-1045 Wien
-www.wko.at/</description>
     </item>
     
   </channel>
