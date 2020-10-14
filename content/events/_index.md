@@ -8,17 +8,17 @@ My Informatics World veranstaltet vom 27. bis 29. Oktober 2020 gemeinsam mit dem
 
 ## Das Programm
 {{<table "table table-striped table-bordered">}}
-| Zeit          | Dienstag, 27. Oktober | Mittwoch,        | 28. Oktober | Donnerstag, 29. Oktober |
-|---------------|-----------------------|------------------|-------------|-------------------------|
-|               | Track 1               | Track 1          | Track 2     | Track 1                 |
-| 8:30 - 9:00   | Scratch               | Mobile Computing | Elterncaf´e | Sorting is fun          |
-| 9:00 - 9:30   | Scratch               | Mobile Computing | Elterncaf´e | Sorting is fun          |
-| 9:30 - 10:00  | Scratch               | Mobile Computing | Elterncaf´e | Sorting is fun          |
-| 10:00 - 10:30 | Pause                 | Pause            | Pause       | Pause                   |
-|               |                       |                  |             |                         |
-|               |                       |                  |             |                         |
-|               |                       |                  |             |                         |
-|               |                       |                  |             |                         |
-|               |                       |                  |             |                         |
-|               |                       |                  |             |                         |
-{{</table>}}
+| Zeit          | Dienstag, 27. Oktober        | Mittwoch,        | 28. Oktober | Donnerstag, 29. Oktober |
+|---------------|------------------------------|------------------|-------------|-------------------------|
+|               | Track 1                      | Track 1          | Track 2     | Track 1                 |
+| 8:30 - 9:00   | Scratch                      | Mobile Computing |             | Sorting is fun          |
+| 9:00 - 9:30   | Scratch                      | Mobile Computing |             | Sorting is fun          |
+| 9:30 - 10:00  | Scratch                      | Mobile Computing |             | Sorting is fun          |
+| 10:00 - 10:30 | Pause                        | Pause            | Pause       | Pause                   |
+| 10:30 - 11:00 | Virtuelles Elektronikbasteln | Mobile Computing | Elterncaf´e | Humanoid Robotics       |
+| 11:00 - 11:30 | Virtuelles Elektronikbasteln | Mobile Computing | Elterncaf´e | Humanoid Robotics       |
+| 11:30 - 12:00 | Virtuelles Elektronikbasteln | Mobile Computing | Elterncaf´e | Humanoid Robotics       |
+| 12:00 - 12:30 |                              |                  |             |                         |
+| 12:30 - 13:00 | Web-Entwicklung              | Mobile Computing | Elterncaf´e | Humanoid Robotics       |
+| 13:00 - 13:30 | Web-Entwicklung              | Mobile Computing | Elterncaf´e | Humanoid Robotics       |
+| 13:30 - 14:00 | Web-Entwicklung              | Mobile Computing | Elterncaf´e | Humanoid Robotics       |{{</table>}}
