@@ -1,15 +1,22 @@
 ---
-title: "Digitalferien 2020"
-subtitle: "von DI, 27. Oktober bis DO, 29. Oktober 2020"
+title: "Digitalferien 2021"
+subtitle: "von MI, 27. Oktober bis FR, 29. Oktober 2021"
 type: events
 layout: overview
 ---
-Das waren die Digitalferien 2020 von My Informatics World
+Nach den Digitalferien 2020, welche trotz des Lockdowns ein toller Event waren, werden wir heuer die Sache erweitern und wollen die Ferien in hybrider Form durchführen. Das heißt: 
 
-1. 6 Workshops an 3 Tagen
-1. 5 Themen: Von Scratch über Web Programming, Elektronikbasteln, Mobile Computing, und Sorting bis zu einem Elterncafé 
-1. Zwischen 5 und 10 interessierte und hochmotivierte Schülerinnen und Schüler
-1. 14 verschiedene Mentorinnen und Mentoren zu den unterschiedlichen Themen
-1. Jede Menge Spaß und viel gelernt
+- Es gibt Workshops online, bei denen ihr von zu Hause, aber auch von eurer Schule aus mitmachen könnt
+- Mitmachen in der Schule hat den Vorteil, dass ihr einen Mentor an der Seite habt, der euch unterstützen kann
+- Es gibt an ausgewählten Schulen einen Präsenz-Workshop zum Thema Humanoid Robotics
 
-Ein voller Erfolg trotz mancher Covid-Einschränkungen. Wir werden das sicherlich wiederholen. Vorher gibt es aber sicherlich noch den einen oder anderen spannenden Workshop. Stay tuned!
+Wir freuen uns, dass sich bereits 6 Schulen bereiterklärt haben, als Präsenz-Locations mitzumachen. Ganz herzlichen Dank an
+
+- [MS Machtrenk 1](https://www.nms1marchtrenk.eduhi.at)
+- [MS Alkoven](https://ms-alkoven.at)
+- [MS Andorf](http://www.msandorf.at)
+- [BRG Fadinger-Straße](https://www.fadi.at)
+- [digiTNMS 27 (Linz)](https://digims27.at)
+- [TNMS Helfenberg](https://time-mittelschule.at)
+
+Das genaue Programm wird in den nächsten Wochen bekanntgegeben. Hier schon mal der [Link auf den Folder](img/2021-07-15_Digiferien_Folder_web.pdf).
