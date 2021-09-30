@@ -6,8 +6,8 @@ layout: overview
 ---
 Nach den Digitalferien 2020, welche trotz des Lockdowns ein toller Event waren, werden wir heuer die Sache erweitern und wollen die Ferien in hybrider Form durchführen. Das heißt: 
 
-- Es gibt Workshops online, bei denen ihr von zu Hause, aber auch von eurer Schule aus mitmachen könnt
-- Mitmachen in der Schule hat den Vorteil, dass ihr einen Mentor an der Seite habt, der euch unterstützen kann
+- Es gibt Workshops online, bei denen Ihr von zu Hause, aber auch von Eurer Schule aus mitmachen könnt
+- Mitmachen in der Schule hat den Vorteil, dass Ihr einen Mentor an der Seite habt, der Euch unterstützen kann
 - Es gibt an ausgewählten Schulen einen Präsenz-Workshop zum Thema Humanoid Robotics
 
 Wir freuen uns, dass sich bereits 6 Schulen bereiterklärt haben, als Präsenz-Locations mitzumachen. Ganz herzlichen Dank an
