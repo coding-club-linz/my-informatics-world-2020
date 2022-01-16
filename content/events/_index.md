@@ -4,13 +4,20 @@ subtitle: "von MI, 27. Oktober bis FR, 29. Oktober 2021"
 type: events
 layout: overview
 ---
-Nach den Digitalferien 2020, welche trotz des Lockdowns ein toller Event waren, werden wir heuer die Sache erweitern und wollen die Ferien in hybrider Form durchführen. Das heißt: 
+Die Digitalferien 2021 wurden erstmals in hybrider Form durchgeführt. Du findest hier ein paar Eindrücke von diesem tollen Event:
 
-- Es gibt Workshops online, bei denen Ihr von zu Hause, aber auch von Eurer Schule aus mitmachen könnt
-- Mitmachen in der Schule hat den Vorteil, dass Ihr einen Mentor an der Seite habt, der Euch unterstützen kann
-- Es gibt an ausgewählten Schulen einen Präsenz-Workshop zum Thema Humanoid Robotics
+- [Premiere für „MyInformaticsWorld“ Digitalferien (digitalregion.at)](https://www.digitalregion.at/news-presse/detail/news/premiere-fuer-myinformaticsworld-digitalferien)
+- [Roboter-Unterricht für IT-Schüler – LT1 – Oberösterreichs größter Privatsender](https://www.lt1.at/aktuelles/digi-ferien/)
 
-Wir freuen uns, dass sich bereits 6 Schulen bereiterklärt haben, als Präsenz-Locations mitzumachen. Ganz herzlichen Dank an
+**Und das Beste ist: Die Digitalferien 2022 sind bereits in Planung! Du wirst hier auf weiter auf dem Laufenden gehalten!**
+
+Highlights der Digitalferien 2021:
+
+- Online-Workshops, bei denen von zu Hause oder von der Schule aus mitgearbeitet wurde
+- Mentoren unterstützten in der Schule vor Ort
+- Präsenz-Workshop zum Thema Humanoid Robotics
+
+6 Schulen haben sich bereit erklärt, als Präsenz-Locations mitzumachen. Ganz herzlichen Dank an
 
 - [MS Marchtrenk 1](https://www.nms1marchtrenk.eduhi.at)
 - [MS Alkoven](https://ms-alkoven.at)
@@ -19,9 +26,11 @@ Wir freuen uns, dass sich bereits 6 Schulen bereiterklärt haben, als Präsenz-L
 - [digiTNMS 27 (Linz)](https://digims27.at)
 - [TNMS Helfenberg](https://time-mittelschule.at)
 
-In den Digitalferien kannst du in spannende Welten eintauchen:
-- Deine Leidenschaft sind Roboter? Du bist fasziniert, dass wir Menschen uns menschenähnliche Begleiter erschaffen, die uns unterstützen können? Dann komme zu den Digitalferien. Dort hast du die Gelegenheit zu lernen, wie diese humanoiden Roboter programmiert werden und was man alles mit ihnen machen kann!
-- Computerspiele faszinieren Dich? Nutze die Digi-Ferien, um Dein eigenes – Smartphone-taugliches – Game zu entwickeln und kämpfe Dich durch ein Asteroidenfeld.
-- Hast du dich schon mal gefragt, wie deine Lieblingswebseiten funktionieren? In unsere Workshop entdecken wir HTML und TypeScript und bauen damit eine Web App und ein Browser Game.
+In den Digitalferien konntest du in spannende Welten eintauchen:
+- Du hattest die Gelegenheit zu lernen, wie humanoide Roboter programmiert werden und was man alles mit ihnen machen kann!
+- In den Digi-Ferien konntest du dein eigenes – Smartphone-taugliches – Game entwickeln und dich durch ein Asteroidenfeld. kämpfen
+- In einem Workshop entdeckten wir HTML und TypeScript und erstellen damit eine Web App und ein Browser Game.
 
-Hier gehts zum  [Folder](img/2021-07-15_Digiferien_Folder_web.pdf).
+Hier gehts zum  [Folder der Digitalferien 2021](img/2021-07-15_Digiferien_Folder_web.pdf).
+
+
