@@ -28,7 +28,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "My Informatics World 2020"
+		brand = "My Informatics World 2022"
 
 		[params.navigation.links]
 			about     = "Über uns"
