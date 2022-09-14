@@ -1,6 +1,6 @@
 ---
 title: "Digitalferien 2022"
-subtitle: "von Fr, 28. Oktober bis Sa, 30. Oktober 2022"
+subtitle: "von Donnerstag, 27. Oktober und Freitag, 28. Oktober 2022"
 type: events
 layout: overview
 ---
