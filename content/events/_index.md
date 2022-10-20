@@ -6,10 +6,17 @@ layout: overview
 ---
 Die Digitalferien 2022 finden heuer bereits das dritte Mal statt. Präsenz-Workshops zu interessanten Themen werden an folgenden Schule veranstaltet:
 
-- [BRG Fadinger-Straße](https://www.fadi.at)
 - [digiTNMS 27 (Linz)](https://digims27.at)
 - [MS Andorf](http://www.msandorf.at)
 - [TNMS Helfenberg](https://time-mittelschule.at)
+- [Grand Garage](https://grandgarage.eu/)
+
+Beachte: Teilnahmen in der Grand Garage möglich nach Anmeldung über ... 
+> ##### Mag. Karin Hartinger  
+> ###### Business Upper Austria – OÖ Wirtschaftsagentur GmbH  
+> ###### Tel: 	+43-732-79810-5193  
+> ###### Mobil: 	+43-664-8568525  
+> ###### E Mail: 	karin.hartinger@biz-up.at
 
 Hier gehts zum  [Folder der Digitalferien 2022](img/2022-09-14_Digiferien_Folder_web.pdf)..
 
