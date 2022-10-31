@@ -32,7 +32,8 @@ googleAnalytics = ""
 
 		[params.navigation.links]
 			about     = "Über uns"
-      		appointments   = "Digitalferien 2022"
+			events     = "Events"
+      		digitalferien   = "Digitalferien 2022"
 			partners   = "Projektpartner"
       		sponsors   = "Sponsoren"
 			contact   = "Kontakt"

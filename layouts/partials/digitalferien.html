@@ -1,0 +1,29 @@
+{{ "<!-- DIGITALFERIEN -->" | safeHTML }}
+<section id="digitalferien">
+    <div class="container">
+        {{ with (.Site.GetPage "/digitalferien") }}
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">{{ .Params.title }}</h2>
+                    <p>{{ .Params.subtitle }}</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-left">
+                    {{ .Content }}
+                </div>
+            </div>
+
+            {{ range .Pages.ByParam "order" }}
+                {{ if .Params.isVisible }}
+                    <div class="col-md-4 text-center">
+                        <div class="digi-holiday-event">
+                            <h3>{{ .Params.title }}</h3>
+                            <div>{{ .Content }} </div>
+                        </div>
+                    </div>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </div>
+</section>

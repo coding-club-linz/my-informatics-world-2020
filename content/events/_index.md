@@ -1,30 +1,36 @@
 ---
-title: "Digitalferien 2022"
-subtitle: "Donnerstag, 27. Oktober und Freitag, 28. Oktober 2022"
+title: "EVENTS"
 type: events
 layout: overview
 ---
-Die Digitalferien 2022 finden heuer bereits das dritte Mal statt. Präsenz-Workshops zu interessanten Themen werden an folgenden Schule veranstaltet:
 
-- [digiTNMS 27 (Linz)](https://digims27.at)
-- [MS Andorf](http://www.msandorf.at)
-- [TNMS Helfenberg](https://time-mittelschule.at)
-- [Grand Garage](https://grandgarage.eu/)
+### CAREER TALKS: Meine Software macht den Unterschied
+##### 15.02.2023 - 15:00 - 16:00 (Online)
 
-Beachte: Teilnahmen in der Grand Garage möglich nach Anmeldung über ... 
-> ##### Mag. Karin Hartinger  
-> ###### Business Upper Austria – OÖ Wirtschaftsagentur GmbH  
-> ###### Tel: 	+43-732-79810-5193  
-> ###### Mobil: 	+43-664-8568525  
-> ###### E Mail: 	karin.hartinger@biz-up.at
 
-Hier gehts zum  [Folder der Digitalferien 2022](img/2022-09-14_Digiferien_Folder_web.pdf)..
+Der Bedarf an Softwareentwickler:innen in Wirtschaft und Industrie ist in den letzten Jahren signifikant gewachsen. 
+Doch was sind genau die Herausforderungen, die junge Programmierer:innen in der Industrie heute und in Zukunft lösen müssen?
+Welche fachlichen und persönlichen Fähigkeiten muss ich dafür mitbringen? Und wie werde ich in den Ausbildungsstätten darauf vorbereitet?
 
-In den Digitalferien kannst Du in spannende Welten eintauchen:
-- Du hast die Gelegenheit zu lernen, wie humanoide Roboter programmiert werden und was man alles mit ihnen machen kann!
-- Du kannst dein eigenes – Smartphone-taugliches – Game entwickeln und dich durch ein Asteroidenfeld kämpfen.
-- In einem Workshop entdeckten wir HTML und TypeScript und erstellen damit eine Web App und ein Browser Game.
+Der 60-minütige CAREER TALK „Meine Software macht den Unterschied“ bietet Antworten auf diese und weitere Fragen. 
+Moderatorin Birgit Pfindel interviewt in diesem Online Live-Event Richard Kainerstorfer, Direktor der HTL Leonding, 
+und Bernhard Schürz, Abteilungsleiter Prozessoptimierung Ironmaking, Steelmaking und Continuous Casting bei Primetals Technologies Austria.
+Birgit Pfindel ist bei Primetals Technologies als Moderatorin für wichtige interne Themen wie Unternehmenskultur, Zusammenarbeit und Weiterentwicklung aktiv. Zusätzlich ist sie erste Anlaufstelle für potenzielle zukünftige Mitarbeiter:innen im Bereich Elektrik und Automation.
 
+Alle Teilnehmer:innen können während des Events in einen Chat Fragen schreiben, die dann live beantwortet werden.
+
+Interessiert? Dann speichere dir den Termin in deinem Kalender!
+ 
+Und folge uns auf dem Social-Media-Kanal deiner Wahl! Dort werden wir rechtzeitig vor dem Online-Event mehr Informationen teilen.
+
+
+- YouTube
+- Facebook
+- Instagram
+- TikTok
+- LinkedIn
+ 
+Ein CAREER TALK ist aufklärend, inspirierend und unterhaltsam
 
 
 
