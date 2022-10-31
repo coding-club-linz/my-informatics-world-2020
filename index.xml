@@ -23,28 +23,28 @@ https://www.digitalregion.at/schwerpunkte/ausbildung-qualifizierung/it-rocks/</d
     
     <item>
       <title>Coding</title>
-      <link>https://www.my-informatics-world.at/events/coding/</link>
+      <link>https://www.my-informatics-world.at/events/alt/coding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.my-informatics-world.at/events/coding/</guid>
+      <guid>https://www.my-informatics-world.at/events/alt/coding/</guid>
       <description>Der Klassiker aus dem CoderDojo. Das Format ist hier sehr offen. Neben dem typischen Einsteiger-Thema Scratch, gibt es Web-Entwicklung mit HTML, CSS, JavaScript, Node.js, und Co, Entwicklung von Minecraft Mods in Java usw. Auch hatten wir schon spontane Workshops wie Spielentwicklung in Unity oder Programmieren von Mini-Robots. Alles ist möglich, solange ihr Spaß daran habt.</description>
     </item>
     
     <item>
       <title>Die Vermessung der Zukunft</title>
-      <link>https://www.my-informatics-world.at/events/future/</link>
+      <link>https://www.my-informatics-world.at/events/alt/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.my-informatics-world.at/events/future/</guid>
+      <guid>https://www.my-informatics-world.at/events/alt/future/</guid>
       <description>Du willst einen Überblick, wie sich unsere Welt in den nächsten Jahren weiterentwickelt? Du bist gespannt, wie Machine Learning, Künstliche Intelligenz und virtuelle Welten funktionieren und wie sie unser Leben und Zusammenleben verändern werden? Dann wirst Du von diesem Programm im AEC echt begeistert sein.</description>
     </item>
     
     <item>
       <title>Digitalferien 2021</title>
-      <link>https://www.my-informatics-world.at/events/_index-kopie-2022-08-30/</link>
+      <link>https://www.my-informatics-world.at/events/alt/_index-kopie-2022-08-30/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.my-informatics-world.at/events/_index-kopie-2022-08-30/</guid>
+      <guid>https://www.my-informatics-world.at/events/alt/_index-kopie-2022-08-30/</guid>
       <description>Die Digitalferien 2021 wurden erstmals in hybrider Form durchgeführt. Du findest hier ein paar Eindrücke von diesem tollen Event:
  Premiere für „MyInformaticsWorld“ Digitalferien (digitalregion.at) Roboter-Unterricht für IT-Schüler – LT1 – Oberösterreichs größter Privatsender  Und das Beste ist: Die Digitalferien 2022 sind bereits in Planung! Du wirst hier auf weiter auf dem Laufenden gehalten!
 Highlights der Digitalferien 2021:
@@ -52,48 +52,60 @@ Highlights der Digitalferien 2021:
     </item>
     
     <item>
-      <title>Elektronik und Arduino</title>
-      <link>https://www.my-informatics-world.at/events/electronics/</link>
+      <title>Digitalferien 2023</title>
+      <link>https://www.my-informatics-world.at/events/alt/_index_alt-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.my-informatics-world.at/events/electronics/</guid>
+      <guid>https://www.my-informatics-world.at/events/alt/_index_alt-copy/</guid>
+      <description>Die Digitalferien 2022 finden heuer bereits das dritte Mal statt. Präsenz-Workshops zu interessanten Themen werden an folgenden Schule veranstaltet:
+ digiTNMS 27 (Linz) MS Andorf TNMS Helfenberg Grand Garage  Beachte: Teilnahmen in der Grand Garage möglich nach Anmeldung über &amp;hellip;
+ Mag. Karin Hartinger Business Upper Austria – OÖ Wirtschaftsagentur GmbH Tel: +43-732-79810-5193 Mobil: +43-664-8568525 E Mail: karin.hartinger@biz-up.at  Hier gehts zum Folder der Digitalferien 2022..
+In den Digitalferien kannst Du in spannende Welten eintauchen:</description>
+    </item>
+    
+    <item>
+      <title>Elektronik und Arduino</title>
+      <link>https://www.my-informatics-world.at/events/alt/electronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.my-informatics-world.at/events/alt/electronics/</guid>
       <description>Wir basteln uns auf einem Breadboard kleine Schaltungen, welche wir mit einem Arduino dann ansteuern. Du lernst grundsätzliches über elektronische Schaltungen und wie man auf einem Mikrocontroller mit C/C++ programmiert. Das Ganze kann man auch online machen. Dazu verwenden wir die Web-Plattform TINKERCAD.</description>
     </item>
     
     <item>
       <title>Eltern Café</title>
-      <link>https://www.my-informatics-world.at/events/parents_cafe/</link>
+      <link>https://www.my-informatics-world.at/events/alt/parents_cafe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.my-informatics-world.at/events/parents_cafe/</guid>
+      <guid>https://www.my-informatics-world.at/events/alt/parents_cafe/</guid>
       <description>Die Informationsmöglichkeit für Eltern und Erziehungsberechtigte. Hier können Sie im entspannten Rahmen mit Verantwortlichen der besten Bildungsorganisationen im OÖ Zentralraum über die Ausbildungsmöglichkeiten im Bereich Informatik reden. Wir durften schon die interessantesten Fragen beantworten:
  Wann kann mein Kind mit der Informatik-Ausbildung beginnen? Was sind die Unterschiede zwischen der Ausbildung an der HTL, FH, Universität, …? Wie kann ich sicher gehen, dass mein Kind für diesen Beruf talentiert ist? Ist die Informatik etwas für meine Tochter?</description>
     </item>
     
     <item>
       <title>Humanoid Robotics</title>
-      <link>https://www.my-informatics-world.at/events/humanoid/</link>
+      <link>https://www.my-informatics-world.at/events/alt/humanoid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.my-informatics-world.at/events/humanoid/</guid>
+      <guid>https://www.my-informatics-world.at/events/alt/humanoid/</guid>
       <description>Menschenähnliche Roboter zu programmieren wird bereits von Kindern im Volksschulalter begeistert aufgenommen. Dass man Jugendliche damit begeistern kann, überrascht wenig. Wir arbeiten mit dem Roboter-Typ Nah von der Firma Softbank Robotics. Die Naos können auf verschiedene Arten programmiert werden. Einen einfachen Einstieg bietet ein grafisches Tool, welches mit den Naos mitgeliefert wird. Mit ein bisschen Unterstützung können hier bereits 10-jährige einen Roboter zum Leben erwecken. Max. 10 TeilnehmerInnen.</description>
     </item>
     
     <item>
       <title>Mobile Computing</title>
-      <link>https://www.my-informatics-world.at/events/mobile_computing/</link>
+      <link>https://www.my-informatics-world.at/events/alt/mobile_computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.my-informatics-world.at/events/mobile_computing/</guid>
+      <guid>https://www.my-informatics-world.at/events/alt/mobile_computing/</guid>
       <description>Programmieren von Handys und Tablets ist eine der vielen und auch oft benötigten Tätigkeiten eines Informatikers / einer Informatikerin. Und das Schöne ist, dass es gar nicht so schwer ist. In diesem Workshop lernst Du erste Schritte im Programmieren einer App.</description>
     </item>
     
     <item>
       <title>Sorting is Fun</title>
-      <link>https://www.my-informatics-world.at/events/sorting_fun/</link>
+      <link>https://www.my-informatics-world.at/events/alt/sorting_fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.my-informatics-world.at/events/sorting_fun/</guid>
+      <guid>https://www.my-informatics-world.at/events/alt/sorting_fun/</guid>
       <description>Wenn Du schon ein bisschen programmiert hast, bist Du sicherlich schon auf das Problem gestoßen, Dinge in die richtige Reihenfolge zu bringen. Seien wir ehrlich: Eine Hall of Fame macht einfach keinen Spaß, wenn der Gewinner nicht ganz oben steht. Damit das funktioniert muss man sich ein bisschen mit Sortieralgorithmen beschäftigen. Wir schlüpfen in diesem Workshop in die Rolle des Computers und spielen mehrere Möglichkeiten durch, wie er Dinge in die richtige Reihenfolge bringt.</description>
     </item>
     
