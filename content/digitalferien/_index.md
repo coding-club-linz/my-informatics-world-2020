@@ -1,29 +1,24 @@
 ---
 title: "Digitalferien 2022"
-subtitle: "Donnerstag, 27. Oktober und Freitag, 28. Oktober 2022"
+subtitle: "Montag, 30. Oktober und Dienstag, 31. Oktober 2023"
 type: events
 layout: overview
 ---
-Die Digitalferien 2022 finden heuer bereits das dritte Mal statt. Präsenz-Workshops zu interessanten Themen werden an folgenden Schule veranstaltet:
+Die Digitalferien 2023 finden heuer bereits das vierte Mal statt. Präsenz-Workshops zu interessanten Themen werden an Schulen durchgeführt. Nähere Infos folgen!
 
-- [digiTNMS 27 (Linz)](https://digims27.at)
-- [MS Andorf](http://www.msandorf.at)
-- [TNMS Helfenberg](https://time-mittelschule.at)
-- [Grand Garage](https://grandgarage.eu/)
-
-Beachte: Teilnahmen in der Grand Garage möglich nach Anmeldung über ... 
-> ##### Mag. Karin Hartinger  
+Beachte: Anmeldung zur Teilnahme über ... 
+> ##### Mag. Ursula Porkert  
 > ###### Business Upper Austria – OÖ Wirtschaftsagentur GmbH  
-> ###### Tel: 	+43-732-79810-5193  
-> ###### Mobil: 	+43-664-8568525  
-> ###### E Mail: 	karin.hartinger@biz-up.at
+> ###### Tel: 	+43-732-79810-5201 
+> ###### Mobil: 	+43-664-8481243  
+> ###### E Mail: 	ursula.pokert@biz-up.at
 
-Hier gehts zum  [Folder der Digitalferien 2022](img/2022-09-14_Digiferien_Folder_web.pdf)..
+Hier gehts zum  [Folder der Digitalferien 2023](img/2023-06-05_Digiferien_Folder_web.pdf)..
 
 In den Digitalferien kannst Du in spannende Welten eintauchen:
-- Du hast die Gelegenheit zu lernen, wie humanoide Roboter programmiert werden und was man alles mit ihnen machen kann!
-- Du kannst dein eigenes – Smartphone-taugliches – Game entwickeln und dich durch ein Asteroidenfeld kämpfen.
-- In einem Workshop entdeckten wir HTML und TypeScript und erstellen damit eine Web App und ein Browser Game.
+- Game Developing: Der Studiengang Mobile Computing (FH Hagenberg) vermittelt, wie einfach das Programmieren von Spielen heute ist.
+- Coding: Mentor:innen des CoderDojo Linz helfen bei der Entwicklung deines ersten Computerspiels.
+- Humanoid Robotics: Hier kannst du einen Roboter zum Leben erwecken (NAO, Softbank Robotics).
 
 
 
