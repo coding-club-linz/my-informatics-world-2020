@@ -1,5 +1,5 @@
 ---
-title: "Digitalferien 2022"
+title: "Digitalferien 2023"
 subtitle: "Montag, 30. Oktober und Dienstag, 31. Oktober 2023"
 type: events
 layout: overview
