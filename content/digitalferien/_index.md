@@ -11,7 +11,7 @@ Beachte: Anmeldung zur Teilnahme über ...
 > ###### Business Upper Austria – OÖ Wirtschaftsagentur GmbH  
 > ###### Tel: 	+43-732-79810-5201 
 > ###### Mobil: 	+43-664-8481243  
-> ###### E Mail: 	ursula.pokert@biz-up.at
+> ###### E Mail: 	ursula.porkert@biz-up.at
 
 Hier gehts zum  [Folder der Digitalferien 2023](img/2023-06-05_Digiferien_Folder_web.pdf).
 
