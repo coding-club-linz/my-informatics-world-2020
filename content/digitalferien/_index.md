@@ -13,7 +13,7 @@ Beachte: Anmeldung zur Teilnahme über ...
 > ###### Mobil: 	+43-664-8481243  
 > ###### E Mail: 	ursula.pokert@biz-up.at
 
-Hier gehts zum  [Folder der Digitalferien 2023](img/2023-06-05_Digiferien_Folder_web.pdf)..
+Hier gehts zum  [Folder der Digitalferien 2023](img/2023-06-05_Digiferien_Folder_web.pdf).
 
 In den Digitalferien kannst Du in spannende Welten eintauchen:
 - Game Developing: Der Studiengang Mobile Computing (FH Hagenberg) vermittelt, wie einfach das Programmieren von Spielen heute ist.
