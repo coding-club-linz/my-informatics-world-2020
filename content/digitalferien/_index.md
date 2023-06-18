@@ -4,7 +4,7 @@ subtitle: "Montag, 30. Oktober und Dienstag, 31. Oktober 2023"
 type: events
 layout: overview
 ---
-Die Digitalferien 2023 finden heuer bereits das vierte Mal statt. Präsenz-Workshops zu interessanten Themen werden an Schulen durchgeführt. Nähere Infos folgen!
+Die Digitalferien 2023 finden (nach einem Online-Pilotprojekt 2020) heuer zum dritten Mal statt. Online- und Präsenz-Workshops zu interessanten Themen werden an Schulen durchgeführt. Nähere Infos folgen!
 
 Beachte: Anmeldung zur Teilnahme über ... 
 > ##### Mag. Ursula Porkert  
