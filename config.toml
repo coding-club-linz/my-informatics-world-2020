@@ -28,11 +28,11 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "My Informatics World 2023"
+		brand = "My Informatics World 2024"
 
 		[params.navigation.links]
 			about     = "Über uns"
-      		digitalferien   = "Digitalferien 2023"
+      		digitalferien   = "Digitalferien 2024"
 			partners   = "Projektpartner"
       		sponsors   = "Sponsoren"
 		    archive = "Archiv"

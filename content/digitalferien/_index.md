@@ -1,24 +1,26 @@
 ---
-title: "Digitalferien 2023"
-subtitle: "Montag, 30. Oktober und Dienstag, 31. Oktober 2023"
+title: "Digitalferien 2024"
+subtitle: "Montag, 28. Oktober und Dienstag, 29. Oktober 2024"
 type: events
 layout: overview
 ---
-Die Digitalferien 2023 finden (nach einem Online-Pilotprojekt 2020) heuer zum dritten Mal statt. Online- und Präsenz-Workshops zu interessanten Themen werden an Schulen durchgeführt. Nähere Infos folgen!
+Die Digitalferien 2024 finden (nach einem Online-Pilotprojekt 2020) heuer bereits zum vierten Mal statt. An ausgewählten Schulen werden Online- und Präsenz-Workshops zu interessanten Themen angeboten.
 
-Beachte: Anmeldung zur Teilnahme über ... 
+Nähere Informationen zum Programm und zur Anmeldung findest du unter [https://sl.biz-up.at/digitalferien](https://sl.biz-up.at/digitalferien).
+
+Die Anmeldung zur Teilnahme erfolgt über
 > ##### Mag. Ursula Porkert  
 > ###### Business Upper Austria – OÖ Wirtschaftsagentur GmbH  
 > ###### Tel: 	+43-732-79810-5201 
 > ###### Mobil: 	+43-664-8481243  
 > ###### E Mail: 	ursula.porkert@biz-up.at
 
-Hier gehts zum  [Folder der Digitalferien 2023](img/2023-06-05_Digiferien_Folder_web.pdf).
+Hier gehts zum  [Folder der Digitalferien 2024](img/2024-07-03_Digiferien_Folder_web.pdf).
 
 In den Digitalferien kannst Du in spannende Welten eintauchen:
-- Game Developing: Der Studiengang Mobile Computing (FH Hagenberg) vermittelt, wie einfach das Programmieren von Spielen heute ist.
-- Coding: Mentor:innen des CoderDojo Linz helfen bei der Entwicklung deines ersten Computerspiels.
-- Humanoid Robotics: Hier kannst du einen Roboter zum Leben erwecken (NAO, Softbank Robotics).
+- Coding (Online-Workshop): Hier entwickelst du gemeinsam mit Mentor:innen des CoderDojo Linz dein erstes Computerspiel. Dabei lernst du spielerisch, wie Computerprogramme funktionieren. Bei der Gestaltung des Spiels kommt jedoch auch deine Kreativität nicht zu kurz.
+- Game Developing (Online-Workshop): Der Sudiengang Mobile Computing der FH OÖ zeigt wir, wie einfach das Programmieren von Spielen heute bereits ist.
+- Robotik: Hier kannst du einen Roboter zum Leben erwecken (NAO, Softbank Robotics). Schüler:innen aus oberösterreichischen HTL unterstützen dich bei deinen ersten Schritten im Bereich Robotik.
 
 
 
