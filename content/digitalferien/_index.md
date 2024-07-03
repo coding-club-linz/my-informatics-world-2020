@@ -19,8 +19,8 @@ Hier gehts zum  [Folder der Digitalferien 2024](img/2024-07-03_Digiferien_Folder
 
 In den Digitalferien kannst Du in spannende Welten eintauchen:
 - Coding (Online-Workshop): Hier entwickelst du gemeinsam mit Mentor:innen des CoderDojo Linz dein erstes Computerspiel. Dabei lernst du spielerisch, wie Computerprogramme funktionieren. Bei der Gestaltung des Spiels kommt jedoch auch deine Kreativität nicht zu kurz.
-- Game Developing (Online-Workshop): Der Sudiengang Mobile Computing der FH OÖ zeigt wir, wie einfach das Programmieren von Spielen heute bereits ist.
-- Robotik: Hier kannst du einen Roboter zum Leben erwecken (NAO, Softbank Robotics). Schüler:innen aus oberösterreichischen HTL unterstützen dich bei deinen ersten Schritten im Bereich Robotik.
+- Game Developing (Online-Workshop): Der Studiengang Mobile Computing der FH OÖ zeigt dir, wie einfach das Programmieren von Spielen heute ist.
+- Robotik: Hier kannst du einen Roboter zum Leben erwecken. Schüler:innen aus oberösterreichischen HTLs unterstützen dich bei deinen ersten Schritten im Bereich Robotik.
 
 
 
